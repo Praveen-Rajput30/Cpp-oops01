@@ -1,2 +1,2 @@
-# Cpp-oopslab01
+# Cpp-oops01
 C++ Object Oriented Programming practice programs
